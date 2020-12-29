@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/O/Projects/MyNextFilm/UIUX/html"
+	],
+	"file_history":
+	[
+		"/C/Users/Utkarsh/Desktop/menurc.sql",
+		"/O/Projects/MyNextFilm/HTML/Themeforest Files/metronic_v7.1.1/theme/html/demo1/dist/custom/pages/login/login-3/signin.html",
+		"/C/Users/Utkarsh/Downloads/bhanwar15CharacterVector.json",
+		"/C/Users/Utkarsh/Downloads/bhanwar15DialogueVector.json",
+		"/C/Users/Utkarsh/Downloads/bhanwar15ScriptVector.json",
+		"/C/Users/Utkarsh/Downloads/Library_data.txt",
+		"/C/Users/Utkarsh/Downloads/rounded-squares/rounded-squares.html",
+		"/O/Projects/Myresidential.com.au/Pages/Home/myresidential-new/index-updated.html",
+		"/O/Projects/Archive/SkillMento/HTML Theme/Package-HTML/HTML/blog-timeline.html",
+		"/O/Projects/Myresidential.com.au/Pages/Home/myresidential-new/index-new.html",
+		"/O/Projects/Myresidential.com.au/Pages/Home/myresidential-new/index.html",
+		"/O/Projects/Myresidential.com.au/Pages/Home/myresidential/index.html",
+		"/O/Projects/Myresidential.com.au/Pages/Home/myresidential/onepage.css",
+		"/O/Projects/Myresidential.com.au/Pages/Home/HTML/index.html",
+		"/O/Projects/Myresidential.com.au/Pages/Home/HTML/op-holiday.html",
+		"/O/Projects/Myresidential.com.au/Theme & CMS/Package-HTML/HTML/one-page/index.html",
+		"/O/Projects/Myresidential.com.au/Theme & CMS/Package-HTML/HTML/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/O/XAMPP/php/php.ini",
+		"/O/Projects/INTELLEX/Theme & CMS/easy-plugin-installation.php",
+		"/C/Users/Utkarsh/Downloads/htaccess",
+		"/U/Deep Learning/word-rnn-tensorflow-master/train.py",
+		"/C/Users/Utkarsh/AppData/Local/Temp/Temp1_Divi_Child.zip/Divi_Child/functions.php",
+		"/C/Users/Utkarsh/AppData/Local/Temp/Temp1_Divi_Child.zip/Divi_Child/style.css",
+		"/C/Users/Utkarsh/Desktop/ctk.html",
+		"/C/Users/Utkarsh/Desktop/dripctk.html",
+		"/O/Projects/MyNextFilm/IMDB Datasets/data.tsv",
+		"/O/Projects/MyNextFilm/IMDB Datasets/data_names.tsv",
+		"/C/Users/Utkarsh/Downloads/Free_layout_pack_consultant/Consultant Customizer Settings.json",
+		"/O/XAMPP/htdocs/myfuturerocks/application/config/database.php",
+		"/O/XAMPP/htdocs/myfuturerocks/application/config/config.php",
+		"/O/XAMPP/htdocs/myfuturerocks/privacypolicy.html",
+		"/C/Users/Utkarsh/Downloads/redux_options_salient_redux_backup_06-02-2019.json",
+		"/C/Users/Utkarsh/Desktop/Crew clasification Studio binder.txt",
+		"/C/Users/Utkarsh/Desktop/Studio binder crew clasification.html",
+		"/O/Projects/Shared Projects/Internationalfreights.com.au/Theme & CMS/themeforest-7315054-bridge-creative-multipurpose-wordpress-theme/bridge-child/header.php",
+		"/O/Projects/WebGlobals/Theme & CMS/themeforest-7315054-bridge-creative-multipurpose-wordpress-theme/bridge-child/header.php",
+		"/O/Projects/WebGlobals/Theme & CMS/themeforest-7315054-bridge-creative-multipurpose-wordpress-theme/bridge/header.php",
+		"/O/Products/Establi – Conceptual Multipurpose Launch Page/Establi v1.5/option-v8/index.html",
+		"/O/Projects/Hambre/Coming Soon/index.html",
+		"/O/Projects/Hambre/Coming Soon/assets/css/style.css",
+		"/O/Projects/Hambre/Coming Soon/assets/css/responsive.css",
+		"/O/XAMPP/htdocs/emailchecker/settings.php",
+		"/O/Projects/DigiBliss/HTML/index.html",
+		"/O/Projects/DigiBliss/HTML/onepage.css",
+		"/O/Projects/MarriageHeadquarter/Theme & CMS/Divi_Child_Theme/functions.php",
+		"/O/Projects/MarriageHeadquarter/Theme & CMS/Divi_Child_Theme/style.css",
+		"/O/Projects/MarriageHeadquarter/Theme & CMS/functions.php",
+		"/O/Projects/Boundaryless Initiative/Theme/Avada_Full_Package/Avada Theme/Avada-Child-Theme/style.css",
+		"/O/XAMPP/htdocs/boundaryless/wp-config.php",
+		"/O/Projects/MarriageHeadquarter/Content/fontawesome-free-5.0.13/web-fonts-with-css/css/fontawesome-all.css",
+		"/O/Projects/Boundaryless Initiative/Theme/Avada_Full_Package/Avada Theme/Avada-Child-Theme/functions.php",
+		"/O/Projects/Ecowise/Backups/style.css",
+		"/O/XAMPP/htdocs/ecowise/wp-content/themes/Ecowise/style.css",
+		"/O/XAMPP/htdocs/ecowise/wp-content/themes/EcoSUM/style.css",
+		"/C/Users/Utkarsh/Downloads/installer.php",
+		"/O/Projects/TKH Productions/Child Theme/OpenSUM-THK/style.css",
+		"/O/Projects/TKH Productions/Child Theme/OpenSUM-THK/styles.css",
+		"/C/Users/Utkarsh/AppData/Local/Temp/Illustrator.DMP",
+		"/C/Program Files/Adobe/Adobe Illustrator CC 2017/Support Files/Contents/Windows/AMT/application.xml",
+		"/C/Users/Utkarsh/Downloads/projeo3s_boundaryless.sql",
+		"/C/Program Files/Adobe/Adobe Illustrator CC 2017/Support Files/Contents/Windows/AMT/application.sif"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dark",
+			"SEPTEMBER",
+			"Our ser",
+			"Our serv",
+			"Our servi",
+			"Our services",
+			"our services",
+			"backgro",
+			"gray",
+			"page-section",
+			"section-works",
+			"ON TIME EVERY TIME",
+			"6-8",
+			"get in",
+			"john",
+			"Copyright ",
+			"responsive",
+			"granny",
+			"logo",
+			"header",
+			".js",
+			"h2",
+			"upload",
+			"max",
+			"Your message was sent successfully!",
+			"<div class=\"optgroup-header\">",
+			"&amp;",
+			"<div class=\"optgroup-header\">",
+			"<div class=\"option\" data-selectable=\"\"",
+			"<div class=\"option\" data-selectable=\"\" data-value",
+			"<div class=\"optgroup-header\">Video Department</div><div class=\"option\" data-selectable=\"\" data-value=\"88\">Video Supervisor</div><div class=\"option\" data-selectable=\"\" data-value=\"89\">Video Playback Operator</div><div class=\"option\" data-selectable=\"\" data-value=\"90\">Video Coordinator</div><div class=\"option\" data-selectable=\"\" data-value=\"91\">Video Engineer</div></div><div class=\"optgroup\" data-group=\"4\"><div class=\"optgroup-header\">Grip Department</div><div class=\"option\" data-selectable=\"\" data-value=\"92\">Key Grip</div><div class=\"option\" data-selectable=\"\" data-value=\"93\">Best Boy Grip</div><div class=\"option\" data-selectable=\"\" data-value=\"94\">Dolly Grip</div><div class=\"option\" data-selectable=\"\" data-value=\"95\">Grip</div><div class=\"option\" data-selectable=\"\" data-value=\"96\">Additional Grip</div><div class=\"option\" data-selectable=\"\" data-value=\"97\">Crane Grip</div><div class=\"option\" data-selectable=\"\" data-value=\"98\">Rigging Best Boy</div><div class=\"option\" data-selectable=\"\" data-value=\"99\">Key Rigging Grip</div><div class=\"option\" data-selectable=\"\" data-value=\"100\">Rigging Grip</div><div class=\"option\" data-selectable=\"\" data-value=\"101\">Rigging / Striking</div><div class=\"option\" data-selectable=\"\" data-value=\"102\">Laborer</div><div class=\"option\" data-selectable=\"\" data-value=\"103\">Teleprompter Operator</div><div class=\"option\" data-selectable=\"\" data-value=\"104\">Grip &amp; Electric Swing</div></div><div class=\"optgroup\" data-group=\"5\">",
+			"<div class=",
+			"<div class=\"option\" data-selectable=\"\"",
+			"optgroup-header",
+			"min-width",
+			"port",
+			"view",
+			"viewport",
+			".body",
+			".back",
+			"bg.jpg",
+			"content",
+			".p ",
+			"content",
+			"day",
+			"digibliss3@gmail.com",
+			"DIGITAL MARKETING TRAININ",
+			"SkillMento",
+			"skillmento",
+			"logo",
+			"skillmento",
+			"skillmento-logo",
+			"logo",
+			"h1",
+			"heading",
+			"upload",
+			"timeout",
+			"upload",
+			"serial"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&",
+			"<div class=\"option\" data-selectable=\"\"",
+			"class"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
